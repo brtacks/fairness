@@ -4,5 +4,5 @@ Inspiration: [Counterfactual Fairness](https://github.com/joftius/fairness/blob/
 
 ## Ideation
 
-- [Nicky Case-esque](https://ncase.me) interactive educationall gamme on the different types of fairness
+- [Nicky Case](https://ncase.me)-esque interactive educationall gamme on the different types of fairness
 - Visual essay on the different types of fairness with graphics explaning each type
